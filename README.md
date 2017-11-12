@@ -12,7 +12,7 @@ A personal project that falls within the course named "HLIN501 Algorithme de gra
 Abdoulaye DIALLO (abdouldiallo30@yahoo.fr)
 
 
-### TEACHER (s) 
+### Supervisor (s) 
   Stéphane Bessy (LIRMM - Laboratoire d’Informatique, de Robotique et de Microélectronique de Montpellier)
 
 ### DATE
